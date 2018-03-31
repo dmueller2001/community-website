@@ -17,6 +17,9 @@ Software foundations:
 
   - name: OpenDaylight
     url: http://opendaylight.org/
+    
+  - name: OpenShift Origin
+    url: https://github.com/openshift/origin
 
   - name: OpenStack Foundation
     url: http://www.openstack.org/
